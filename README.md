@@ -1,2 +1,2 @@
 # myrepo
-testingmysetup
+This is a line from Rstudio
